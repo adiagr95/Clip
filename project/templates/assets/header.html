@@ -1,0 +1,127 @@
+{% load staticfiles %}
+{% load app_filters %}
+<!-- Navigation Bar-->
+<header id="topnav">
+    <div class="topbar-main">
+        <div class="container">
+
+            <!-- LOGO -->
+            <div class="topbar-left">
+                <a href="/outlet/" class="logo">
+                    <!--<i class="zmdi zmdi-group-work icon-c-logo"></i>-->
+                    <span>POSO Accounts</span>
+                </a>
+            </div>
+            <!-- End Logo container-->
+
+
+            <div class="menu-extras">
+
+                <ul class="nav navbar-nav pull-right">
+
+                    <li class="nav-item">
+                        <!-- Mobile menu toggle-->
+                        <a class="navbar-toggle">
+                            <div class="lines">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </a>
+                        <!-- End mobile menu toggle-->
+                    </li>
+
+                    <!--<li class="nav-item dropdown notification-list">-->
+                        <!--<a class="nav-link dropdown-toggle arrow-none waves-effect waves-light nav-user"-->
+                           <!--data-toggle="dropdown" href="#" role="button"-->
+                           <!--aria-haspopup="false" aria-expanded="false">-->
+                            <!--Change Outlet-->
+                        <!--</a>-->
+                        <!--<div class="dropdown-menu dropdown-menu-right dropdown-arrow profile-dropdown "-->
+                             <!--aria-labelledby="Preview">-->
+                            <!--&lt;!&ndash; item&ndash;&gt;-->
+                            <!--{% for b in request.session.businesses %}-->
+                            <!--&lt;!&ndash; item&ndash;&gt;-->
+                            <!--<a href="/outlet/switch_business?to={{ b.id }}&next={{ request.path }};"-->
+                               <!--class="dropdown-item notify-item">-->
+                                <!--<i class="zmdi zmdi-account-circle"></i> <span>{{b.name}}</span>-->
+                            <!--</a>-->
+                            <!--{% endfor %}-->
+                        <!--</div>-->
+                    <!--</li>-->
+
+                    <li class="nav-item dropdown notification-list">
+                        <a class="nav-link dropdown-toggle arrow-none waves-effect waves-light nav-user"
+                           data-toggle="dropdown" href="#" role="button"
+                           aria-haspopup="false" aria-expanded="false">
+                            <img src="{% static 'img/kitchen.png' %}" alt="logo" class="img-circle">
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right dropdown-arrow profile-dropdown "
+                             aria-labelledby="Preview">
+                            <!-- item-->
+                            <div class="dropdown-item noti-title">
+                                <h5 class="text-overflow">
+                                    <i class="zmdi zmdi-smartphone-android"></i>
+                                    <small>
+                                        {% if request.session.user.name%}
+                                        {{request.session.user.name}}
+                                        {% else %}
+                                        {{request.session.user.mobile}}
+                                        {% endif %}
+                                    </small>
+                                </h5>
+                            </div>
+                            <!-- item-->
+                            <a href="/outlet/logout" class="dropdown-item notify-item">
+                                <i class="zmdi zmdi-power"></i> <span>Logout</span>
+                            </a>
+
+                        </div>
+                    </li>
+
+                </ul>
+
+            </div> <!-- end menu-extras -->
+            <div class="clearfix"></div>
+
+        </div> <!-- end container -->
+    </div>
+    <!-- end topbar-main -->
+
+
+    <div class="navbar-custom">
+        <div class="container">
+            <div id="navigation">
+                <!-- Navigation Menu-->
+                <ul class="navigation-menu">
+
+                     <li>
+                        <a href="/outlet/invoices/{{request.session.user.id}}/new"><i class="zmdi zmdi-view-dashboard"></i> <span> New Invoices </span> </a>
+                    </li>
+
+                    <li>
+                        <a href="/outlet/invoices/{{request.session.user.id}}/old"><i class="zmdi zmdi-view-dashboard"></i> <span> Old Invoices </span> </a>
+                    </li>
+
+                    <!--<li class="has-submenu">-->
+                        <!--<a href="#"><i class="zmdi zmdi-format-underlined"></i> <span> Invoices </span> </a>-->
+                        <!--<ul class="submenu megamenu">-->
+                            <!--<li>-->
+                                <!--<ul>-->
+                                    <!--<li><a href="ui-buttons.html">New Invoices</a></li>-->
+                                    <!--<li><a href="ui-cards.html">Old Invoices</a></li>-->
+                                <!--</ul>-->
+                            <!--</li>-->
+                        <!--</ul>-->
+                    <!--</li>-->
+
+                    <li>
+                        <a href="/outlet/settings"><i class="zmdi zmdi-view-dashboard"></i> <span> Settings </span> </a>
+                    </li>
+                </ul>
+                <!-- End navigation menu  -->
+            </div>
+        </div>
+    </div>
+</header>
+<!-- End Navigation Bar-->

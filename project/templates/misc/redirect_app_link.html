@@ -1,0 +1,24 @@
+<html>
+<head>
+  <script>
+    function getMobileOperatingSystem() {
+      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+        if (/android/i.test(userAgent)) {
+          window.open("https://play.google.com/store/apps/details?id=com.poso.android","_self")
+          return;
+        }
+
+        if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+          window.open("https://appsto.re/in/rV-qlb.i","_self")
+          return;
+        }
+        window.open("http://www.posoapp.com","_self")
+    }
+  </script>
+</head>
+
+<body>
+  <script>getMobileOperatingSystem();</script>
+</body>
+</html>

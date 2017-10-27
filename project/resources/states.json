@@ -1,0 +1,7295 @@
+[
+	{
+		"city": "Mumbai",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Delhi",
+		"state": "Delhi",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Bengaluru",
+		"state": "Karnataka",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Ahmedabad",
+		"state": "Gujarat",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Hyderabad",
+		"state": "Telangana",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Chennai",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Kolkata",
+		"state": "West Bengal",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Pune",
+		"state": "Maharashtra",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Jaipur",
+		"state": "Rajasthan",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Surat",
+		"state": "Gujarat",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Lucknow",
+		"state": "Uttar Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Kanpur",
+		"state": "Uttar Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Nagpur",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Patna",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Indore",
+		"state": "Madhya Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Thane",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Bhopal",
+		"state": "Madhya Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Visakhapatnam",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Committee.",
+		" ": " "
+	},
+	{
+		"city": "Vadodara",
+		"state": "Gujarat",
+		"type": "Municipal Committee.",
+		" ": " "
+	},
+	{
+		"city": "Firozabad",
+		"state": "Uttar Pradesh",
+		"type": "Census town.",
+		" ": " "
+	},
+	{
+		"city": "Ludhiana",
+		"state": "Punjab",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Rajkot",
+		"state": "Gujarat",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Agra",
+		"state": "Uttar Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Siliguri",
+		"state": "West Bengal",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Nashik",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Faridabad",
+		"state": "Haryana",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Patiala",
+		"state": "Punjab",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Meerut",
+		"state": "Uttar Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Kalyan-Dombivali",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Vasai-Virar",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Varanasi",
+		"state": "Uttar Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Srinagar",
+		"state": "Jammu and Kashmir",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Dhanbad",
+		"state": "Jharkhand",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Jodhpur",
+		"state": "Rajasthan",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Amritsar",
+		"state": "Punjab",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Raipur",
+		"state": "Chhattisgarh",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Allahabad",
+		"state": "Uttar Pradesh",
+		"type": "Municipality.",
+		" ": " "
+	},
+	{
+		"city": "Coimbatore",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Jabalpur",
+		"state": "Madhya Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Gwalior",
+		"state": "Madhya Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Vijayawada",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Madurai",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Guwahati",
+		"state": "Assam",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Chandigarh",
+		"state": "Chandigarh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Hubli-Dharwad",
+		"state": "Karnataka",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Amroha",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Moradabad",
+		"state": "Uttar Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Gurgaon",
+		"state": "Haryana",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Aligarh",
+		"state": "Uttar Pradesh",
+		"type": "Municipalityunicipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Solapur",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Ranchi",
+		"state": "Jharkhand",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Jalandhar",
+		"state": "Punjab",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Tiruchirappalli",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Bhubaneswar",
+		"state": "Odisha",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Salem",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Warangal",
+		"state": "Telangana",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Mira-Bhayandar",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Thiruvananthapuram",
+		"state": "Kerala",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Bhiwandi",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Saharanpur",
+		"state": "Uttar Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Guntur",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Amravati",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Bikaner",
+		"state": "Rajasthan",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Noida",
+		"state": "Uttar Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Jamshedpur",
+		"state": "Jharkhand",
+		"type": "Notified area committee / Notified Area Council ",
+		" ": " "
+	},
+	{
+		"city": "Bhilai Nagar",
+		"state": "Chhattisgarh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Cuttack",
+		"state": "Odisha",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Kochi",
+		"state": "Kerala",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Udaipur",
+		"state": "Rajasthan",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Bhavnagar",
+		"state": "Gujarat",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Dehradun",
+		"state": "Uttarakhand",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Asansol",
+		"state": "West Bengal",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Nanded-Waghala",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Ajmer",
+		"state": "Rajasthan",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Jamnagar",
+		"state": "Gujarat",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Ujjain",
+		"state": "Madhya Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Sangli",
+		"state": "Maharashtra",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Loni",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Jhansi",
+		"state": "Uttar Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Pondicherry",
+		"state": "Puducherry",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Nellore",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Jammu",
+		"state": "Jammu and Kashmir",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Belagavi",
+		"state": "Karnataka",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Raurkela",
+		"state": "Odisha",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Mangaluru",
+		"state": "Karnataka",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Tirunelveli",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Malegaon",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Gaya",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Tiruppur",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Davanagere",
+		"state": "Karnataka",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Kozhikode",
+		"state": "Kerala",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Akola",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Kurnool",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Bokaro Steel City",
+		"state": "Jharkhand",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Rajahmundry",
+		"state": "Andhra Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Ballari",
+		"state": "Karnataka",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Agartala",
+		"state": "Tripura",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Bhagalpur",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Latur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Dhule",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Korba",
+		"state": "Chhattisgarh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Bhilwara",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Brahmapur",
+		"state": "Odisha",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Mysore",
+		"state": "Karnatka",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Muzaffarpur",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Ahmednagar",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Kollam",
+		"state": "Kerala",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Raghunathganj",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bilaspur",
+		"state": "Chhattisgarh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Shahjahanpur",
+		"state": "Uttar Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Thrissur",
+		"state": "Kerala",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Alwar",
+		"state": "Rajasthan",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Kakinada",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Nizamabad",
+		"state": "Telangana",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Sagar",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Tumkur",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Hisar",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rohtak",
+		"state": "Haryana",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Panipat",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Darbhanga",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Kharagpur",
+		"state": "West Bengal",
+		"type": "Municipality/Industrial Township",
+		" ": " "
+	},
+	{
+		"city": "Aizawl",
+		"state": "Mizoram",
+		"type": "Notified Town",
+		" ": " "
+	},
+	{
+		"city": "Ichalkaranji",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tirupati",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Karnal",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Bathinda",
+		"state": "Punjab",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Rampur",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Shivamogga",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ratlam",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Modinagar",
+		"state": "Uttar Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Durg",
+		"state": "Chhattisgarh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Shillong",
+		"state": "Meghalaya",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Imphal",
+		"state": "Manipur",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Hapur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Ranipet",
+		"state": "Tamil Nadu",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Anantapur",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Arrah",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Karimnagar",
+		"state": "Telangana",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Parbhani",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Etawah",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Bharatpur",
+		"state": "Rajasthan",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Begusarai",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "New Delhi",
+		"state": "Delhi",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Chhapra",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Kadapa",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Ramagundam",
+		"state": "Telangana",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Pali",
+		"state": "Rajasthan",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Satna",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Vizianagaram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Katihar",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Hardwar",
+		"state": "Uttarakhand",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Sonipat",
+		"state": "Haryana",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Nagercoil",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Thanjavur",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Murwara (Katni)",
+		"state": "Madhya Pradesh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Naihati",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sambhal",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Nadiad",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Yamunanagar",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "English Bazar",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Eluru",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Munger",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Panchkula",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Raayachuru",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Panvel",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Deoghar",
+		"state": "Jharkhand",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Ongole",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nandyal",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Morena",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bhiwani",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Porbandar",
+		"state": "Gujarat",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Palakkad",
+		"state": "Kerala",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Anand",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Purnia",
+		"state": "Bihar",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Baharampur",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Barmer",
+		"state": "Rajasthan",
+		"type": "Nagar Parishad",
+		" ": " "
+	},
+	{
+		"city": "Morvi",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Orai",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad.",
+		" ": " "
+	},
+	{
+		"city": "Bahraich",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Sikar",
+		"state": "Rajasthan",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Vellore",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Singrauli",
+		"state": "Madhya Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Khammam",
+		"state": "Telangana",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Mahesana",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Silchar",
+		"state": "Assam",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Sambalpur",
+		"state": "Odisha",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Rewa",
+		"state": "Madhya Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Unnao",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad.",
+		" ": " "
+	},
+	{
+		"city": "Hugli-Chinsurah",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Raiganj",
+		"state": "West Bengal",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Phusro",
+		"state": "Jharkhand",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Adityapur",
+		"state": "Jharkhand",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Alappuzha",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bahadurgarh",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Machilipatnam",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rae Bareli",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Jalpaiguri",
+		"state": "West Bengal",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Bharuch",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pathankot",
+		"state": "Punjab",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Hoshiarpur",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Baramula",
+		"state": "Jammu and Kashmir",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Adoni",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Jind",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tonk",
+		"state": "Rajasthan",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tenali",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kancheepuram",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vapi",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sirsa",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Navsari",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mahbubnagar",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Puri",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Robertson Pet",
+		"state": "Karnataka",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Erode",
+		"state": "Tamil Nadu",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Batala",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Haldwani-cum-Kathgodam",
+		"state": "Uttarakhand",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Vidisha",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Saharsa",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Thanesar",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Chittoor",
+		"state": "Andhra Pradesh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Veraval",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lakhimpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Sitapur",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Hindupur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Santipur",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Balurghat",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ganjbasoda",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Moga",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Proddatur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Srinagar",
+		"state": "Uttarakhand",
+		"type": " ",
+		" ": " "
+	},
+	{
+		"city": "Medinipur",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Habra",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sasaram",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Hajipur",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Bhuj",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shivpuri",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ranaghat",
+		"state": "West Bengal",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Shimla",
+		"state": "Himachal Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Tiruvannamalai",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kaithal",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rajnandgaon",
+		"state": "Chhattisgarh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Godhra",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Hazaribag",
+		"state": "Jharkhand",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Bhimavaram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mandsaur",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Dibrugarh",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Kolar",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Bankura",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mandya",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Dehri-on-Sone",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Madanapalle",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Malerkotla",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Lalitpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Bettiah",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pollachi",
+		"state": "Tamil Nadu",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Khanna",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Neemuch",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Palwal",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Palanpur",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Guntakal",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nabadwip",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Udupi",
+		"state": "Karnataka",
+		"type": "City Municipal Council.",
+		" ": " "
+	},
+	{
+		"city": "Jagdalpur",
+		"state": "Chhattisgarh",
+		"type": "Municipal Corporation / Corporation",
+		" ": " "
+	},
+	{
+		"city": "Motihari",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pilibhit",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Dimapur",
+		"state": "Nagaland",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Mohali",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sadulpur",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rajapalayam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Dharmavaram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kashipur",
+		"state": "Uttarakhand",
+		"type": "Nagar Palika Parishad.",
+		" ": " "
+	},
+	{
+		"city": "Sivakasi",
+		"state": "Tamil Nadu",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Darjiling",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Chikkamagaluru",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Gudivada",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Baleshwar Town",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mancherial",
+		"state": "Telangana",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Srikakulam",
+		"state": "Andhra Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Adilabad",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Yavatmal",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Barnala",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nagaon",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Narasaraopet",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Raigarh",
+		"state": "Chhattisgarh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Roorkee",
+		"state": "Uttarakhand",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Valsad",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ambikapur",
+		"state": "Chhattisgarh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Giridih",
+		"state": "Jharkhand",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Chandausi",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Purulia",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Patan",
+		"state": "Gujarat",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Bagaha",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Hardoi ",
+		"state": "Uttar Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Achalpur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Osmanabad",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Deesa",
+		"state": "Gujarat",
+		"type": " ",
+		" ": " "
+	},
+	{
+		"city": "Nandurbar",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Azamgarh",
+		"state": "Uttar Pradesh",
+		"type": "P.",
+		" ": " "
+	},
+	{
+		"city": "Ramgarh",
+		"state": "Jharkhand",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Firozpur",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Baripada Town",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Karwar",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Siwan",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rajampet",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pudukkottai",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Anantnag",
+		"state": "Jammu and Kashmir",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tadpatri",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Satara",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Bhadrak",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kishanganj",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Suryapet",
+		"state": "Telangana",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Wardha",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ranebennuru",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Amreli",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Neyveli (TS)",
+		"state": "Tamil Nadu",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Jamalpur",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Marmagao",
+		"state": "Goa",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Udgir",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tadepalligudem",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nagapattinam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Buxar",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Aurangabad",
+		"state": "Maharashtra",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Jehanabad",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Phagwara",
+		"state": "Punjab",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Khair",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Sawai Madhopur",
+		"state": "Rajasthan",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Kapurthala",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Chilakaluripet",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Aurangabad",
+		"state": "Bihar",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Malappuram",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rewari",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nagaur",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sultanpur",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Nagda",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Port Blair",
+		"state": "Andaman and Nicobar Islands",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Lakhisarai",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Panaji",
+		"state": "Goa",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Tinsukia",
+		"state": "Assam",
+		"type": "Municipal board.",
+		" ": " "
+	},
+	{
+		"city": "Itarsi",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kohima",
+		"state": "Nagaland",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Balangir",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nawada",
+		"state": "Bihar",
+		"type": "Nagar Parishad",
+		" ": " "
+	},
+	{
+		"city": "Jharsuguda",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Jagtial",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Viluppuram",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Amalner",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Zirakpur",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tanda",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Tiruchengode",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nagina",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Yemmiganur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vaniyambadi",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sarni",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Theni Allinagaram",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Margao",
+		"state": "Goa",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Akot",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sehore",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Mhow Cantonment",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Kot Kapura",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Makrana",
+		"state": "Rajasthan",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Pandharpur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Miryalaguda",
+		"state": "Telangana",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Shamli",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Seoni",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ranibennur",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Kadiri",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shrirampur",
+		"state": "Maharashtra",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Rudrapur",
+		"state": "Uttarakhand",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Parli",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Najibabad",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Nirmal",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Udhagamandalam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shikohabad",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Jhumri Tilaiya",
+		"state": "Jharkhand",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Aruppukkottai",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ponnani",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Jamui",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sitamarhi",
+		"state": "Bihar",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Chirala",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Anjar",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Karaikal",
+		"state": "Puducherry",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Hansi",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Anakapalle",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mahasamund",
+		"state": "Chhattisgarh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Faridkot",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Saunda",
+		"state": "Jharkhand",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Dhoraji",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Paramakudi",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Balaghat",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sujangarh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Khambhat",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Muktsar",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rajpura",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Kavali",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Dhamtari",
+		"state": "Chhattisgarh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ashok Nagar",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sardarshahar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mahuva",
+		"state": "Gujarat",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Bargarh",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kamareddy",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sahibganj",
+		"state": "Jharkhand",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kothagudem",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ramanagaram",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Gokak",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tikamgarh",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Araria",
+		"state": "Bihar",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Rishikesh",
+		"state": "Uttarakhand",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Shahdol",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Medininagar (Daltonganj)",
+		"state": "Jharkhand",
+		"type": "Nagar Parishad",
+		" ": " "
+	},
+	{
+		"city": "Arakkonam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Washim",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sangrur",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Bodhan",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Fazilka",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Palacole",
+		"state": "Andhra Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Keshod",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sullurpeta",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Wadhwan",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Gurdaspur",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Vatakara",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tura",
+		"state": "Meghalaya",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Narnaul",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Kharar",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Yadgir",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ambejogai",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ankleshwar",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Savarkundla",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Paradip",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Virudhachalam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kanhangad",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kadi",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Srivilliputhur",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Gobindgarh",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tindivanam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mansa",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Taliparamba",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Manmad",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tanuku",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rayachoti",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Virudhunagar",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Koyilandy",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Jorhat",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Karur",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Valparai",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Srikalahasti",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Neyyattinkara",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bapatla",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Fatehabad",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Malout",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sankarankovil",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tenkasi",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ratnagiri",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rabkavi Banhatti",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sikandrabad",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Chaibasa",
+		"state": "Jharkhand",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Chirmiri",
+		"state": "Chhattisgarh",
+		"type": "Municipal Corporation / Corporation.",
+		" ": " "
+	},
+	{
+		"city": "Palwancha",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bhawanipatna",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kayamkulam",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pithampur",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nabha",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Shahabad",
+		"state": " Hardoi",
+		"type": "Uttar Pradesh",
+		" ": " "
+	},
+	{
+		"city": "Dhenkanal",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Uran Islampur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Gopalganj",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Bongaigaon City",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Palani",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pusad",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sopore",
+		"state": "Jammu and Kashmir",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Pilkhuwa",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Tarn Taran",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Renukoot",
+		"state": "Uttar Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Mandamarri",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shahabad",
+		"state": "Karnataka",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Barbil",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Koratla",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Madhubani",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Arambagh",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Gohana",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Ladnu",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pattukkottai",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sirsi",
+		"state": "Karnataka",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Sircilla",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tamluk",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Jagraon",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "AlipurdUrban Agglomerationr",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Alirajpur",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tandur",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Naidupet",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tirupathur",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tohana",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Ratangarh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Dhubri",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Masaurhi",
+		"state": "Bihar",
+		"type": "Nagar Parishad",
+		" ": " "
+	},
+	{
+		"city": "Visnagar",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vrindavan",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Nokha",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nagari",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Narwana",
+		"state": "Haryana",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ramanathapuram",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ujhani",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad.",
+		" ": " "
+	},
+	{
+		"city": "Samastipur",
+		"state": "Bihar",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Laharpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Sangamner",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nimbahera",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Siddipet",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Suri",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Diphu",
+		"state": "Assam",
+		"type": "Town Committee / Town Area Committee",
+		" ": " "
+	},
+	{
+		"city": "Jhargram",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shirpur-Warwade",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tilhar",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad.",
+		" ": " "
+	},
+	{
+		"city": "Sindhnur",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Udumalaipettai",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Malkapur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Wanaparthy",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Gudur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kendujhar",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mandla",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Mandi",
+		"state": "Himachal Pradesh",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nedumangad",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "North Lakhimpur",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Vinukonda",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tiptur",
+		"state": "Karnataka",
+		"type": "City Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Gobichettipalayam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sunabeda",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Wani",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Upleta",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Narasapuram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nuzvid",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tezpur",
+		"state": "Assam",
+		"type": "Municipal board.",
+		" ": " "
+	},
+	{
+		"city": "Una",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Markapur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sheopur",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Thiruvarur",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sidhpur",
+		"state": "Gujarat",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Sahaswan",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Suratgarh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shajapur",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Rayagada",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lonavla",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ponnur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kagaznagar",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Gadwal",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bhatapara",
+		"state": "Chhattisgarh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kandukur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sangareddy",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Unjha",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lunglei",
+		"state": "Mizoram",
+		"type": "Notified Town",
+		" ": " "
+	},
+	{
+		"city": "Karimganj",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Kannur",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bobbili",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mokameh",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Talegaon Dabhade",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Anjangaon",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Mangrol",
+		"state": "Gujarat",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Sunam",
+		"state": "Punjab",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Gangarampur",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Thiruvallur",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tirur",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rath",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Jatani",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Viramgam",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rajsamand",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Yanam",
+		"state": "Puducherry",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kottayam",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Panruti",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Dhuri",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Namakkal",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kasaragod",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Modasa",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rayadurg",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Supaul",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kunnamkulam",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Umred",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Bellampalle",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sibsagar",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Mandi Dabwali",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Ottappalam",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Dumraon",
+		"state": "Bihar",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Samalkot",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Jaggaiahpet",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Goalpara",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Tuni",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lachhmangarh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bhongir",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Amalapuram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Firozpur Cantt.",
+		"state": "Punjab",
+		"type": "Cantonment Board / Cantonment",
+		" ": " "
+	},
+	{
+		"city": "Vikarabad",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Thiruvalla",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sherkot",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Palghar",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Shegaon",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Jangaon",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Bheemunipatnam",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Panna",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Thodupuzha",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "KathUrban Agglomeration",
+		"state": "Jammu and Kashmir",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Palitana",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Arwal",
+		"state": "Bihar",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Venkatagiri",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kalpi",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Rajgarh (Churu)",
+		"state": "Rajasthan",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Sattenapalle",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Arsikere",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ozar",
+		"state": "Maharashtra",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Thirumangalam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Petlad",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nasirabad",
+		"state": "Rajasthan",
+		"type": "Cantonment Board / Cantonment",
+		" ": " "
+	},
+	{
+		"city": "Phaltan",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rampurhat",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nanjangud",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Forbesganj",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tundla",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "BhabUrban Agglomeration",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sagara",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Pithapuram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sira",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Bhadrachalam",
+		"state": "Telangana",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Charkhi Dadri",
+		"state": "Haryana",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Chatra",
+		"state": "Jharkhand",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Palasa Kasibugga",
+		"state": "Andhra Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nohar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Yevla",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sirhind Fatehgarh Sahib",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Bhainsa",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Parvathipuram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shahade",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Chalakudy",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Narkatiaganj",
+		"state": "Bihar",
+		"type": "Nagar Parishad",
+		" ": " "
+	},
+	{
+		"city": "Kapadvanj",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Macherla",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Raghogarh-Vijaypur",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rupnagar",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Naugachhia",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sendhwa",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Byasanagar",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sandila",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Gooty",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Salur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nanpara",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Sardhana",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Vita",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Gumia",
+		"state": "Jharkhand",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Puttur",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Jalandhar Cantt.",
+		"state": "Punjab",
+		"type": "Cantonment Board / Cantonment",
+		" ": " "
+	},
+	{
+		"city": "Nehtaur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Changanassery",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mandapeta",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Dumka",
+		"state": "Jharkhand",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Seohara",
+		"state": "Uttar Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Umarkhed",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Madhupur",
+		"state": "Jharkhand",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vikramasingapuram",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Punalur",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kendrapara",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sihor",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nellikuppam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Samana",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Warora",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nilambur",
+		"state": "Kerala",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Rasipuram",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ramnagar",
+		"state": "Uttarakhand",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Jammalamadugu",
+		"state": "Andhra Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nawanshahr",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Thoubal",
+		"state": "Manipur",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Athni",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Cherthala",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sidhi",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Farooqnagar",
+		"state": "Telangana",
+		"type": "Census town.",
+		" ": " "
+	},
+	{
+		"city": "Peddapuram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Chirkunda",
+		"state": "Jharkhand",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pachora",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Madhepura",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pithoragarh",
+		"state": "Uttarakhand",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Tumsar",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Phalodi",
+		"state": "Rajasthan",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Tiruttani",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rampura Phul",
+		"state": "Punjab",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Perinthalmanna",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Padrauna",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Pipariya",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Dalli-Rajhara",
+		"state": "Chhattisgarh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Punganur",
+		"state": "Andhra Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mattannur",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mathura",
+		"state": "Uttar Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Thakurdwara",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad.",
+		" ": " "
+	},
+	{
+		"city": "Nandivaram-Guduvancheri",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mulbagal",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Manjlegaon",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Wankaner",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sillod",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nidadavole",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Surapura",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rajagangapur",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sheikhpura",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Parlakhemundi",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kalimpong",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Siruguppa",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Arvi",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Limbdi",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Barpeta",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Manglaur",
+		"state": "Uttarakhand",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Repalle",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mudhol",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Shujalpur",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mandvi",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Thangadh",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sironj",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nandura",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Shoranur",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nathdwara",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Periyakulam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sultanganj",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Medak",
+		"state": "Telangana",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Narayanpet",
+		"state": "Telangana",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Raxaul Bazar",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rajauri",
+		"state": "Jammu and Kashmir",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Pernampattu",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nainital",
+		"state": "Uttarakhand",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Ramachandrapuram",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vaijapur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nangal",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sidlaghatta",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Punch",
+		"state": "Jammu and Kashmir",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Pandhurna",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Wadgaon Road",
+		"state": "Maharashtra",
+		"type": "Census town.",
+		" ": " "
+	},
+	{
+		"city": "Talcher",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Varkala",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pilani",
+		"state": "Rajasthan",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Nowgong",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Naila Janjgir",
+		"state": "Chhattisgarh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mapusa",
+		"state": "Goa",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Vellakoil",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Merta City",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sivaganga",
+		"state": "Tamil Nadu",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Mandideep",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sailu",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Vyara",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kovvur",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vadalur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nawabganj",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Padra",
+		"state": "Gujarat",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Sainthia",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Siana",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Shahpur",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sojat",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Noorpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Paravoor",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Murtijapur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ramnagar",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Sundargarh",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Taki",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Saundatti-Yellamma",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Pathanamthitta",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Wadi",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rameshwaram",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Tasgaon",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sikandra Rao",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Sihora",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tiruvethipuram",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tiruvuru",
+		"state": "Andhra Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mehkar",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Peringathur",
+		"state": "Kerala",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Perambalur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Manvi",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Zunheboto",
+		"state": "Nagaland",
+		"type": "Town Committee / Town Area Committee",
+		" ": " "
+	},
+	{
+		"city": "Mahnar Bazar",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Attingal",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shahbad",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Puranpur",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Nelamangala",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nakodar",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Lunawada",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Murshidabad",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mahe",
+		"state": "Puducherry",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lanka",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Rudauli",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Tuensang",
+		"state": "Nagaland",
+		"type": "Town Committee / Town Area Committee",
+		" ": " "
+	},
+	{
+		"city": "Lakshmeshwar",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Zira",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Yawal",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Thana Bhawan",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Ramdurg",
+		"state": "Karnataka",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Pulgaon",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sadasivpet",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nargund",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Neem-Ka-Thana",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Memari",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nilanga",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Naharlagun",
+		"state": "Arunachal Pradesh",
+		"type": "Notified Town",
+		" ": " "
+	},
+	{
+		"city": "Pakaur",
+		"state": "Jharkhand",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Wai",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tarikere",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Malavalli",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Raisen",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lahar",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Uravakonda",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Savanur",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sirohi",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Udhampur",
+		"state": "Jammu and Kashmir",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Umarga",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Pratapgarh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lingsugur",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Usilampatti",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Palia Kalan",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Wokha",
+		"state": "Nagaland",
+		"type": "Town Committee / Town Area Committee.",
+		" ": " "
+	},
+	{
+		"city": "Rajpipla",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vijayapura",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rawatbhata",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sangaria",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Paithan",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rahuri",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Patti",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Zaidpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Lalsot",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Maihar",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vedaranyam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nawapur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Solan",
+		"state": "Himachal Pradesh",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Vapi",
+		"state": "Gujarat",
+		"type": "Industrial Notified Area",
+		" ": " "
+	},
+	{
+		"city": "Sanawad",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Warisaliganj",
+		"state": "Bihar",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Revelganj",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sabalgarh",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Tuljapur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Simdega",
+		"state": "Jharkhand",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Musabani",
+		"state": "Jharkhand",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Kodungallur",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Phulabani",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Umreth",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Narsipatnam",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Nautanwa",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Rajgir",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Yellandu",
+		"state": "Telangana",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sathyamangalam",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pilibanga",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Morshi",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Pehowa",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Sonepur",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Pappinisseri",
+		"state": "Kerala",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Zamania",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mihijam",
+		"state": "Jharkhand",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Purna",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Puliyankudi",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shikarpur",
+		"state": " Bulandshahr",
+		"type": "Uttar Pradesh",
+		" ": " "
+	},
+	{
+		"city": "Umaria",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Porsa",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Naugawan Sadat",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Fatehpur Sikri",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board.",
+		" ": " "
+	},
+	{
+		"city": "Manuguru",
+		"state": "Telangana",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Udaipur",
+		"state": "Tripura",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Pipar City",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pattamundai",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Nanjikottai",
+		"state": "Tamil Nadu",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Taranagar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Yerraguntla",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Satana",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sherghati",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Sankeshwara",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Madikeri",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Thuraiyur",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sanand",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rajula",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Kyathampalle",
+		"state": "Telangana",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Shahabad",
+		"state": " Rampur",
+		"type": "Uttar Pradesh",
+		" ": " "
+	},
+	{
+		"city": "Tilda Newra",
+		"state": "Chhattisgarh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Narsinghgarh",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Chittur-Thathamangalam",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Malaj Khand",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sarangpur",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Robertsganj",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Sirkali",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Radhanpur",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tiruchendur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Utraula",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad.",
+		" ": " "
+	},
+	{
+		"city": "Patratu",
+		"state": "Jharkhand",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Vijainagar",
+		"state": " Ajmer",
+		"type": "Rajasthan",
+		" ": " "
+	},
+	{
+		"city": "Periyasemur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pathri",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sadabad",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Talikota",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sinnar",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Mungeli",
+		"state": "Chhattisgarh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Sedam",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Shikaripur",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sumerpur",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sattur",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sugauli",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Lumding",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Vandavasi",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Titlagarh",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council ",
+		" ": " "
+	},
+	{
+		"city": "Uchgaon",
+		"state": "Maharashtra",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Mokokchung",
+		"state": "Nagaland",
+		"type": "Town Committee / Town Area Committee",
+		" ": " "
+	},
+	{
+		"city": "Paschim Punropara",
+		"state": "West Bengal",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Sagwara",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ramganj Mandi",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tarakeswar",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mahalingapura",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Dharmanagar",
+		"state": "Tripura",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Mahemdabad",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Manendragarh",
+		"state": "Chhattisgarh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Uran",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tharamangalam",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Tirukkoyilur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pen",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Makhdumpur",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Maner",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Oddanchatram",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Palladam",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mundi",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nabarangapur",
+		"state": "Odisha",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mudalagi",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Samalkha",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Nepanagar",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Karjat",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ranavav",
+		"state": "Gujarat",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Pedana",
+		"state": "Andhra Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pinjore",
+		"state": "Haryana",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Lakheri",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pasan",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Puttur",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Vadakkuvalliyur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Tirukalukundram",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mahidpur",
+		"state": "Madhya Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Mussoorie",
+		"state": "Uttarakhand",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Muvattupuzha",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rasra",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Udaipurwati",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Manwath",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Adoor",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Uthamapalayam",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Partur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nahan",
+		"state": "Himachal Pradesh",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ladwa",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Mankachar",
+		"state": "Assam",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Nongstoin",
+		"state": "Meghalaya",
+		"type": "Town Committee / Town Area Committee",
+		" ": " "
+	},
+	{
+		"city": "Losal",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sri Madhopur",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ramngarh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mavelikkara",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rawatsar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rajakhera",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lar",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Lal Gopalganj Nindaura",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Muddebihal",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sirsaganj",
+		"state": "Uttar Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Shahpura",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Surandai",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sangole",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Pavagada",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Tharad",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mansa",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Umbergaon",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mavoor",
+		"state": "Kerala",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Nalbari",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Talaja",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Malur",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Mangrulpir",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Soro",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Shahpura",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vadnagar",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Raisinghnagar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sindhagi",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sanduru",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sohna",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Manavadar",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pihani",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Safidon",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Risod",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rosera",
+		"state": "Bihar",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sankari",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Malpura",
+		"state": "Rajasthan",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Sonamukhi",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shamsabad",
+		"state": " Agra",
+		"type": "Uttar Pradesh",
+		" ": " "
+	},
+	{
+		"city": "Nokha",
+		"state": "Bihar",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "PandUrban Agglomeration",
+		"state": "West Bengal",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Mainaguri",
+		"state": "West Bengal",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Afzalpur",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Shirur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Salaya",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shenkottai",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pratapgarh",
+		"state": "Tripura",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Vadipatti",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nagarkurnool",
+		"state": "Telangana",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Savner",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sasvad",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rudrapur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Soron",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Sholingur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pandharkaoda",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Perumbavoor",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Maddur",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nadbai",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Talode",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Shrigonda",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Madhugiri",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tekkalakote",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Seoni-Malwa",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shirdi",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "SUrban Agglomerationr",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Terdal",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Raver",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tirupathur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Taraori",
+		"state": "Haryana",
+		"type": "Municipal Committee.",
+		" ": " "
+	},
+	{
+		"city": "Mukhed",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Manachanallur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Rehli",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sanchore",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rajura",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Piro",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Mudabidri",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Vadgaon Kasba",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Nagar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Vijapur",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Viswanatham",
+		"state": "Tamil Nadu",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Polur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Panagudi",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Manawar",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tehri",
+		"state": "Uttarakhand",
+		"type": "Nagar Palika Parishad.",
+		" ": " "
+	},
+	{
+		"city": "Samdhan",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pardi",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rahatgarh",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Panagar",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Uthiramerur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Tirora",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rangia",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Sahjanwa",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Wara Seoni",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Magadi",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rajgarh (Alwar)",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Rafiganj",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Tarana",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Rampur Maniharan",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sheoganj",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Raikot",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Pauri",
+		"state": "Uttarakhand",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Sumerpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Navalgund",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Shahganj",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Marhaura",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Tulsipur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sadri",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Thiruthuraipoondi",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shiggaon",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pallapatti",
+		"state": "Tamil Nadu",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Mahendragarh",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Sausar",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Ponneri",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mahad",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Lohardaga",
+		"state": "Jharkhand",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tirwaganj",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Margherita",
+		"state": "Assam",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Sundarnagar",
+		"state": "Himachal Pradesh",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rajgarh",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mangaldoi",
+		"state": "Assam",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Renigunta",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Longowal",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Ratia",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Lalgudi",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Shrirangapattana",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Niwari",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Natham",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Unnamalaikadai",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "PurqUrban Agglomerationzi",
+		"state": "Uttar Pradesh",
+		"type": "Urban Agglomeration",
+		" ": " "
+	},
+	{
+		"city": "Shamsabad",
+		"state": " Farrukhabad",
+		"type": "Uttar Pradesh",
+		" ": " "
+	},
+	{
+		"city": "Mirganj",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Todaraisingh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Warhapur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Rajam",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Urmar Tanda",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Lonar",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Powayan",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "P.N.Patti",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Palampur",
+		"state": "Himachal Pradesh",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Srisailam Project (Right Flank Colony) Township",
+		"state": "Andhra Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Sindagi",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sandi",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Vaikom",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Malda",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Tharangambadi",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sakaleshapura",
+		"state": "Karnataka",
+		"type": "Town Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Lalganj",
+		"state": "Bihar",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Malkangiri",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Rapar",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mauganj",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Todabhim",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Srinivaspur",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Murliganj",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Reengus",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sawantwadi",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Tittakudi",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Lilong",
+		"state": "Manipur",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Rajaldesar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Pathardi",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Achhnera",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Pacode",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Naraura",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nakur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Palai",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Morinda",
+		"state": " India",
+		"type": "Punjab",
+		" ": " "
+	},
+	{
+		"city": "Manasa",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Nainpur",
+		"state": "Madhya Pradesh",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Sahaspur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pauni",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Prithvipur",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Ramtek",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Silapathar",
+		"state": "Assam",
+		"type": "Town Committee / Town Area Committee",
+		" ": " "
+	},
+	{
+		"city": "Songadh",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Safipur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sohagpur",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mul",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sadulshahar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Phillaur",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sambhar",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Prantij",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Nagla",
+		"state": "Uttarakhand",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Pattran",
+		"state": "Punjab",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mount Abu",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Reoti",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Tenu dam-cum-Kathhara",
+		"state": "Jharkhand",
+		"type": "Census town.",
+		" ": " "
+	},
+	{
+		"city": "Panchla",
+		"state": "West Bengal",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Sitarganj",
+		"state": "Uttarakhand",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Pasighat",
+		"state": "Arunachal Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Motipur",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "O' Valley",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Raghunathpur",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Suriyampalayam",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Qadian",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Rairangpur",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council",
+		" ": " "
+	},
+	{
+		"city": "Silvassa",
+		"state": "Dadra and Nagar Haveli",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Nowrozabad (Khodargama)",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mangrol",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Soyagaon",
+		"state": "Maharashtra",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Sujanpur",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Manihari",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Sikanderpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mangalvedhe",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Phulera",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Ron",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sholavandan",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Saidpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Shamgarh",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Thammampatti",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Maharajpur",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Multai",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mukerian",
+		"state": "Punjab",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sirsi",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Purwa",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sheohar",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Namagiripettai",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Parasi",
+		"state": "Uttar Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Lathi",
+		"state": "Gujarat",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Lalganj",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Narkhed",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Mathabhanga",
+		"state": "West Bengal",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shendurjana",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Peravurani",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mariani",
+		"state": "Assam",
+		"type": "Town Committee / Town Area Committee",
+		" ": " "
+	},
+	{
+		"city": "Phulpur",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Rania",
+		"state": "Haryana",
+		"type": "Municipal Committee",
+		" ": " "
+	},
+	{
+		"city": "Pali",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pachore",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Parangipettai",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pudupattinam",
+		"state": "Tamil Nadu",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Panniyannur",
+		"state": "Kerala",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Maharajganj",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Rau",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Monoharpur",
+		"state": "West Bengal",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Mandawa",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Marigaon",
+		"state": "Assam",
+		"type": "Town Committee / Town Area Committee",
+		" ": " "
+	},
+	{
+		"city": "Pallikonda",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Pindwara",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Shishgarh",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Patur",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Mayang Imphal",
+		"state": "Manipur",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mhowgaon",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Guruvayoor",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Mhaswad",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Sahawar",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sivagiri",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Mundargi",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Punjaipugalur",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Kailasahar",
+		"state": "Tripura",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Samthar",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Sakti",
+		"state": "Chhattisgarh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Sadalagi",
+		"state": "Karnataka",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Silao",
+		"state": "Bihar",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Mandalgarh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Loha",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Pukhrayan",
+		"state": "Uttar Pradesh",
+		"type": "Municipal board",
+		" ": " "
+	},
+	{
+		"city": "Padmanabhapuram",
+		"state": "Tamil Nadu",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Belonia",
+		"state": "Tripura",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Saiha",
+		"state": "Mizoram",
+		"type": "Notified Town",
+		" ": " "
+	},
+	{
+		"city": "Srirampore",
+		"state": "West Bengal",
+		"type": " ",
+		" ": " "
+	},
+	{
+		"city": "Talwara",
+		"state": "Punjab",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Puthuppally",
+		"state": "Kerala",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Khowai",
+		"state": "Tripura",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Vijaypur",
+		"state": "Madhya Pradesh",
+		"type": "Nagar Panchayat.",
+		" ": " "
+	},
+	{
+		"city": "Takhatgarh",
+		"state": "Rajasthan",
+		"type": "Municipality",
+		" ": " "
+	},
+	{
+		"city": "Thirupuvanam",
+		"state": "Tamil Nadu",
+		"type": "Town Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Adra",
+		"state": "West Bengal",
+		"type": "Census town.",
+		" ": " "
+	},
+	{
+		"city": "Piriyapatna",
+		"state": "Karnataka",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Obra",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Adalaj",
+		"state": "Gujarat",
+		"type": "Census town.",
+		" ": " "
+	},
+	{
+		"city": "Nandgaon",
+		"state": "Maharashtra",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Barh",
+		"state": "Bihar",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Chhapra",
+		"state": "Gujarat",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Panamattom",
+		"state": "Kerala",
+		"type": "Notified area",
+		" ": " "
+	},
+	{
+		"city": "Niwai",
+		"state": "Uttar Pradesh",
+		"type": "Nagar Panchayat",
+		" ": " "
+	},
+	{
+		"city": "Bageshwar",
+		"state": "Uttarakhand",
+		"type": "Nagar Palika Parishad",
+		" ": " "
+	},
+	{
+		"city": "Tarbha",
+		"state": "Odisha",
+		"type": "Notified area committee / Notified Area Council.",
+		" ": " "
+	},
+	{
+		"city": "Adyar",
+		"state": "Karnataka",
+		"type": "Census town.",
+		" ": " "
+	},
+	{
+		"city": "Narsinghgarh",
+		"state": "Madhya Pradesh",
+		"type": "Census town",
+		" ": " "
+	},
+	{
+		"city": "Warud",
+		"state": "Maharashtra",
+		"type": "Municipal Council",
+		" ": " "
+	},
+	{
+		"city": "Asarganj",
+		"state": "Bihar",
+		"type": "Census town.",
+		" ": " "
+	},
+	{
+		"city": "Sarsod",
+		"state": "Haryana",
+		"type": "Gram Panchayat",
+		" ": " "
+	},
+	{
+		"city": ""
+	}
+]

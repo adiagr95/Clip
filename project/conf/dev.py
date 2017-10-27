@@ -1,0 +1,31 @@
+# Client sercet key
+CLIENT_SECRET_KEY = '512c6081e28acca197ba6de0c590875f'
+
+# VALIDATION Service
+VALIDATION = True
+
+# HTTP loggin service
+HTTP_LOGGING_SERVICE = False
+
+# Session service
+SESSION_ACTIVE = False
+
+# Push notification service
+PUSH_NOTIFICATION_SERVICE = True
+
+# SMS
+SMS_SERVICE_ENABLED = False
+
+#
+MAIL_SERVICE_ENABLED = False
+
+# GCM SECRET
+GCM_NOTIFICATION_SECRET = '0eb9ee78e3d9bb23ffb1a105a4accefe7166af85a171e54c33a9afb3c590f597'
+
+# SECURITY WARNING: don't run with debug turned on in production!
+DEBUG = True
+
+# Production Host
+PRODUCTION_HOST_NAME = 'http://192.168.0.102'
+PRODUCTION_HOST_PORT = '8000'
+PRODUCTION_HOST = PRODUCTION_HOST_NAME + ':' + PRODUCTION_HOST_PORT

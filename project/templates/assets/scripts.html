@@ -1,0 +1,32 @@
+{% load staticfiles %}
+<script>
+    var resizefunc = [];
+</script>
+
+<!-- jQuery  -->
+<script src="{% static 'assets/js/jquery.min.js' %}"></script>
+<script src="{% static 'assets/js/tether.min.js' %}"></script><!-- Tether for Bootstrap -->
+<script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+<script src="{% static 'assets/js/waves.js' %}"></script>
+<script src="{% static 'assets/js/jquery.nicescroll.js' %}"></script>
+<script src="{% static 'assets/plugins/switchery/switchery.min.js' %}"></script>
+
+
+<!-- Sweet Alert js -->
+<script src="{% static 'assets/plugins/bootstrap-sweetalert/sweet-alert.min.js' %}"></script>
+
+<!-- App js -->
+<script src="{% static 'assets/js/jquery.core.js' %}"></script>
+<script src="{% static 'assets/js/jquery.app.js' %}"></script>
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<!-- Include Date Range Picker -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+<script>
+    (function () {
+       var error = {% if error_message %} "{{error_message}}" {% else %} "" {% endif %}
+       if(error){
+           alert(error)
+       }
+    })()
+</script>

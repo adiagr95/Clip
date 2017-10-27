@@ -1,0 +1,5 @@
+DEFAULT_FILE_STORAGE = 'django_b2storage.backblaze_b2.B2Storage'
+B2_ACCOUNT_ID = 'da4414eafc9a'
+B2_APPLICATION_KEY = '000f74450bbf3ad110a1cbe83e2f83706205d9445d'
+B2_BUCKET_NAME = 'ClipApp'
+B2_BUCKET_ID = '8dba34d4d1f44e8a5ffc091a'

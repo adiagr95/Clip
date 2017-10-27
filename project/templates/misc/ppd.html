@@ -1,0 +1,77 @@
+{% load staticfiles %}
+{% load app_filters %}
+<!DOCTYPE html>
+
+<html id="data">
+<head>
+    <title>PPD</title>
+
+    <style type="text/css">
+        html, body {
+            width: 100%;
+            font-family: Calibri;
+            font-size: 10px;
+        }
+
+        table {
+            border: 1px solid #000;
+            border-collapse: collapse;
+            text-align: center;
+            margin: auto;
+            width: 100%;
+            margin-top: 15px;
+        }
+
+        th, td {
+            border: 1px solid #000;
+            padding: 3px 0 0 0;
+        }
+
+        th {
+            text-align: center;
+
+        }
+
+        .blank_row {
+
+        }
+
+    </style>
+</head>
+<body>
+<p style="font-size: 17px; text-align: center">Packaging sheet</p>
+        <th colspan="1">Dated: {{ delivery_date|get_date_string }}</th>
+    </tr>
+<table id="Challan">
+
+    <tr>
+        <th colspan="6">&nbsp;</th>
+    </tr>
+
+    <tr>
+        <th width="5%">#</th>
+        <th width="25%">Item</th>
+        <th width="15%">Ordered qty</th>
+        <th width="15%">Inventory</th>
+        <th width="15%">Purchase</th>
+        <th width="25%">Packet sizes</th>
+    </tr>
+    {% for item in items %}
+        <tr>
+            <td>{{ forloop.counter }}</td>
+            <td>{{ item.name|title }}
+            </td>
+            <td>{{ item.ordered_quantity }} {{ item.uom }}</td>
+            <td>{{ item.inventory }} {{ item.uom }}</td>
+            <td>{{ item.purchase }} {{ item.uom }}</td>
+            <td>
+                {% for packet in item.packets %}
+                    {{ packet }}, &nbsp;
+                {% endfor %}
+            </td>
+        </tr>
+    {% endfor %}
+
+</table>
+</body>
+</html>

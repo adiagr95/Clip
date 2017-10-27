@@ -1,0 +1,154 @@
+{% load staticfiles %}
+{% load app_filters %}
+<!DOCTYPE html>
+
+<html id="data">
+<head>
+    <title>Challan</title>
+
+    <style type="text/css">
+        html, body {
+            width: 100%;
+            font-family: Calibri;
+            font-size: 10px;
+        }
+
+        table {
+            border-collapse: collapse;
+            text-align: center;
+            margin: auto;
+            width: 100%;
+            margin-top: 15px;
+        }
+
+        .b-r-d{
+            border-right: 2px solid black;
+        }
+        .b-l-d{
+            border-left: 2px solid black;
+        }
+        .b-t-d{
+            border-top: 2px solid black;
+        }
+        .b-b-d{
+            border-bottom: 2px solid black;
+        }
+
+        .left{
+            text-align: left;
+        }
+
+        .right{
+            text-align: right;
+        }
+
+        .center{
+            text-align: center;
+        }
+
+        .b-r-l{
+            border-right: 1px dotted black;
+        }
+        .b-l-l{
+            border-left: 1px dotted black;
+        }
+        .b-t-l{
+            border-top: 1px dotted black;
+        }
+        .b-b-l{
+            border-bottom: 1px dotted black;
+        }
+
+        th {
+            text-align: center;
+
+        }
+        th, td {
+            padding: 3px 0 0 0;
+        }
+
+    </style>
+</head>
+<body>
+<table id="Challan">
+    <tr>
+        <th></th>
+        <th colspan="7">GOODS RECEIVED NOTE</th>
+        <th class="right" colspan="4">Page (1/3)</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="7">{{ order.business.name }}</th>
+        <th class="right" colspan="4">{{ order.delivery_date|get_date_string }}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="7">{{ order.contact.name }}</th>
+        <th class="right" colspan="4">#{{ order.order_id }}</th>
+    </tr>
+
+    <tr>
+        <th class="b-t-d b-r-d b-l-d" rowspan="2">No.</th>
+        <th class="b-t-d b-r-d b-l-d" rowspan="2">Item Name</th>
+        <th class="b-t-d b-r-d b-l-d" rowspan="2">Ordered Qty.</th>
+        <th class="b-t-d b-r-d b-l-d" colspan="9">Delivered Qty.</th>
+    </tr>
+
+    <tr>
+        <th class="b-t-d b-r-d b-l-d">(✓)Tick if same as ordered </th>
+        <th class="b-t-d b-r-d b-l-d" colspan="7">"Enter the final accepted qty. (one digit in one box)"</th>
+        <th class="b-t-d b-r-d b-l-d">Units</th>
+    </tr>
+
+    <tr>
+        <th class="b-b-d b-r-d b-l-d">&nbsp;</th>
+        <th class="b-b-d b-r-d">eg. ordered 100 Kg Potato. Received 98.75 Kg</th>
+        <th class="b-b-d b-r-d">100 kg</th>
+        <th class="b-b-d b-r-d"></th>
+        <th class="b-b-d"></th>
+        <th class="b-b-d"></th>
+        <th class="b-b-d">9</th>
+        <th class="b-b-d">8</th>
+        <th class="b-b-d">•</th>
+        <th class="b-b-d">7</th>
+        <th class="b-b-d b-r-d">5</th>
+        <th class="b-b-d b-r-d">kg</th>
+    </tr>
+
+    {% for item in order.items|slice:":-1" %}
+    <tr>
+        <th class="b-r-d b-l-d">{{ forloop.counter }}</th>
+        <th>{{ item.item.name }}</th>
+        <th class="b-l-d b-r-d">{{ item.quantity }} {{ item.item.unit }}</th>
+        <th class="b-l-d b-r-d">&nbsp;</th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+        <th>•</th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+        <th class="b-l-d b-r-d">kg</th>
+    </tr>
+    {% endfor %}
+
+    {% for item in order.items|slice:"-1:" %}
+    <tr>
+        <th class="b-b-d b-l-d b-r-d">{{ order.items|length }}</th>
+        <th class="b-b-d">{{ item.item.name }}</th>
+        <th class="b-b-d b-l-d b-r-d">{{ item.quantity }} {{ item.item.unit }}</th>
+        <th class="b-b-d b-l-d b-r-d">&nbsp;</th>
+        <th class="b-b-d">&nbsp;</th>
+        <th class="b-b-d">&nbsp;</th>
+        <th class="b-b-d">&nbsp;</th>
+        <th class="b-b-d">&nbsp;</th>
+        <th class="b-b-d">•</th>
+        <th class="b-b-d">&nbsp;</th>
+        <th class="b-b-d">&nbsp;</th>
+        <th class="b-b-d b-l-d b-r-d">kg</th>
+    </tr>
+    {% endfor %}
+
+</table>
+</body>
+</html>
